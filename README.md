@@ -14,7 +14,7 @@ O conteúdo do e-book foi desenvolvido utilizando o **ChatGPT**, que ajudou na e
 ## 🚀 **Resultados**  
 O e-book apresenta um conteúdo informativo e acessível, destacando como as **IAs Generativas** já estão transformando diversos setores e quais desafios e oportunidades elas trazem para o futuro.  
 
-[📥 **Baixar o E-Book Aqui**](#) _(Inserir link de download)_  
+[📥 **Baixar o E-Book Aqui**](#) _(https://docs.google.com/document/d/e/2PACX-1vS9_1nzh2bkPfjJZu2H_Z1Cz3_AfBwip1rFyl2dQFJXCvr7yv9V5v19QBVIKr5_wFtZNtC-RDK9fJFM/pub)_  
 
 ## 💭 **Reflexão**  
 A criação deste e-book demonstrou na prática como as **IAs Generativas** podem ser aliadas na produção de conhecimento e inovação. Elas não apenas automatizam processos, mas ampliam nossa capacidade criativa e intelectual, mostrando que o futuro já está acontecendo agora.  
